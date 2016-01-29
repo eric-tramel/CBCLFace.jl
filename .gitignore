@@ -1,0 +1,15 @@
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+
+*.dat
+*.png
+*.pdf
+*.pgm
+*.jpg
+*.bin
+*.txt
+*.gz
+*.html
+*.normgrey
+data/README
